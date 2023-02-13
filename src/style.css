@@ -1,0 +1,243 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  background: #91b6f5;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  color: #fff;
+}
+
+.App {
+  box-sizing: border-box;
+  font-size: 100%;
+  text-align: center;
+}
+
+.Container {
+  background: #91b6f5;
+  margin: 0 auto;
+  padding: 0 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Header .Container {
+  background: #376de2;
+  color: #fff;
+  min-height: 80px;
+  padding-bottom: 5px;
+}
+
+.Header h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 1.2;
+  padding-top: 10px;
+}
+
+.Header p {
+  background: #376de2;
+  font-size: 16px;
+  padding-bottom: 15px;
+  max-width: 600px;
+}
+
+.Title {
+  background: linear-gradient(
+    140deg,
+    #f4e4ba 13.09%,
+    #ff331f 42.58%,
+    #d677c0 83.96%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.Form {
+  background: #376de2;
+  border-radius: 20px;
+  padding: 1.3em;
+  margin-bottom: 10px;
+  width: 370px;
+  text-align: center;
+}
+.InputLabel {
+  background: #376de2;
+  color: white;
+}
+
+.Input {
+  background: white;
+  color: black;
+  padding: 10px 0px;
+  text-align: center;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.selectLift {
+  background: white;
+  color: black;
+  padding: 8px;
+  text-align: center;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.selectLift:hover {
+  background: #cecece;
+  cursor: pointer;
+}
+
+.btn {
+  padding: 10px 15px;
+  border: 0px;
+  border-radius: 6px;
+  background: #ffffff;
+  color: #222222;
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 10px;
+  width: 160px;
+}
+
+.btn:hover {
+  background: #cecece;
+  cursor: pointer;
+}
+
+.Max {
+  margin: 5px;
+  padding: 15px;
+  min-width: 370px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 600;
+  background: #2451b1;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.Error {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ErrorMessage {
+  background: #EB5143;
+  margin: 10px;
+}
+
+.Links {
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+#repo:link,
+#repo:visited {
+  background-color: #333;
+  color: white;
+  border: 3px solid #6e5494;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 370px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+#repo:hover,
+#repo:active {
+  background-color: white;
+  color: #6e5494;
+  border: 3px solid #333;
+}
+
+#github:link,
+#github:visited {
+  background-color: #333;
+  color: white;
+  border: 3px solid #6e5494;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 100px;
+  border-radius: 8px;
+  margin: 5px;
+}
+
+#github:hover,
+#github:active {
+  background-color: white;
+  color: #6e5494;
+  border: 3px solid #161b22;
+}
+
+#linkedin:link,
+#linkedin:visited {
+  background-color: #0a66c2;
+  color: white;
+  border: 3px solid white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 100px;
+  border-radius: 8px;
+  margin: 5px;
+}
+
+#linkedin:hover,
+#linkedin:active {
+  background-color: white;
+  color: black;
+  border: 3px solid #0a66c2;
+}
+
+#tiktok:link,
+#tiktok:visited {
+  background-color: #161b22;
+  color: white;
+  border-top: 3px solid #cf1616;
+  border-right: 3px solid #cf1616;
+  border-bottom: 3px solid #55d7ff;
+  border-left: 3px solid #55d7ff;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 100px;
+  border-radius: 8px;
+  margin: 5px;
+}
+
+#tiktok:hover,
+#tiktok:active {
+  background-color: white;
+  color: black;
+}
+
+.Footer .Container {
+  background: #376de2;
+  padding: 10px;
+}
+
+.Footer h3 {
+  background: #376de2;
+  font-size: 0.8em;
+  font-weight: lighter;
+}
