@@ -1,6 +1,6 @@
 {
   "name": "one-rep-max-calculator",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "private": false,
   "homepage": "https://winston-hsiao.github.io/one-rep-max-calculator",
   "dependencies": {
