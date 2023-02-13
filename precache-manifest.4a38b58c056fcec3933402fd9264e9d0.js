@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/one-rep-max-calculator/static/js/2.0df7ba25.chunk.js"
   },
   {
-    "revision": "3e58c2dc459972390ec5a376dfe235d9",
+    "revision": "fdbb3e44c300e70c5bcacc9ba962bbac",
     "url": "/one-rep-max-calculator/index.html"
   }
 ];
