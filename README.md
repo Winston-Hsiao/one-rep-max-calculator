@@ -1,16 +1,16 @@
-# 1 Rep Max Calculator v1.0.1
+# One Rep Max Calculator v1.0.2
 By Winston Hsiao
 
 Created: Feb, 2023
 
 ---
 
-## [Link to 1 Rep Max Calculator Web Page](https://winston-hsiao.github.io/one-rep-max-calculator/)
+## [Link to One Rep Max Calculator Web Page](https://winston-hsiao.github.io/one-rep-max-calculator/)
 
 ---
 
 ## Project Description
-* Web App for calculating 1 rep maxes for squat, bench, and deadlift. 
+* Web App for calculating one rep maxes for squat, bench, and deadlift. 
 * Responsive CSS design, mobile-friendly
 
 ---
