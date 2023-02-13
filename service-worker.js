@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/One-Rep-Max-Calculator/precache-manifest.f2a1e2a68579db9e451c968681caf8e5.js"
+  "/one-rep-max-calculator/precache-manifest.cf176063a01987e2799d84503753cd8f.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/One-Rep-Max-Calculator/index.html", {
+workbox.routing.registerNavigationRoute("/one-rep-max-calculator/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
