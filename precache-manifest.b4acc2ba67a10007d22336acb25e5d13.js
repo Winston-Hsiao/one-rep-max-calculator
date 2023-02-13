@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "5082398093e5b5d855e3",
-    "url": "/one-rep-max-calculator/static/css/main.09a3d5a3.chunk.css"
+    "revision": "1e414b770b23091bc4d8",
+    "url": "/one-rep-max-calculator/static/css/main.fa248d53.chunk.css"
   },
   {
-    "revision": "5082398093e5b5d855e3",
+    "revision": "1e414b770b23091bc4d8",
     "url": "/one-rep-max-calculator/static/js/main.5c4660cb.chunk.js"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/one-rep-max-calculator/static/js/2.0df7ba25.chunk.js"
   },
   {
-    "revision": "fdbb3e44c300e70c5bcacc9ba962bbac",
+    "revision": "f66d3292ca345959c978e0f97390c473",
     "url": "/one-rep-max-calculator/index.html"
   }
 ];

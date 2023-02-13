@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/one-rep-max-calculator/precache-manifest.4a38b58c056fcec3933402fd9264e9d0.js"
+  "/one-rep-max-calculator/precache-manifest.b4acc2ba67a10007d22336acb25e5d13.js"
 );
 
 workbox.clientsClaim();
