@@ -2,7 +2,7 @@
   "name": "one-rep-max-calculator",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://winston-hsiao.github.io/One-Rep-Max-Calculator",
+  "homepage": "https://winston-hsiao.github.io/one-rep-max-calculator",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
     "@fortawesome/free-solid-svg-icons": "^6.3.0",

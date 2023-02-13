@@ -6,7 +6,7 @@ export default function Footer() {
         <div className="Links">
           <div>
             <a
-              href="https://github.com/Winston-Hsiao/One-Rep-Max-Calculator"
+              href="https://github.com/Winston-Hsiao/one-rep-max-calculator"
               id="repo"
             >
               View project code on Github

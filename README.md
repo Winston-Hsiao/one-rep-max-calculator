@@ -5,7 +5,7 @@ Created: Feb, 2023
 
 ---
 
-## [Link to 1 Rep Max Calculator Web Page](https://winston-hsiao.github.io/One-Rep-Max-Calculator/)
+## [Link to 1 Rep Max Calculator Web Page](https://winston-hsiao.github.io/one-rep-max-calculator/)
 
 ---
 
